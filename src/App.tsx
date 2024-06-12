@@ -54,7 +54,10 @@ function App() {
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Developed and implemented successful sales strategies that resulted in a 19% increase in customer conversion rates.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-indigo-600 hover:bg-indigo-700 w-full mb-4 sm:w-auto sm:mb-0 font-bold" href="/images/SalesCV.pdf" download>Check CV</a>
+                <a className="btn text-white bg-indigo-600 hover:bg-indigo-700 w-full mb-4 sm:w-auto sm:mb-0 font-bold" 
+                  href="https://drive.google.com/file/d/1Xt2bRjwwnYSBjLIDvdCeV010Q88hvhgB/view?usp=sharing">
+                  Check CV
+                </a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
                 <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4 font-bold" href="https://calendar.app.google/RUbs97eHvYxgwLbu7">Book a Meeting</a>
