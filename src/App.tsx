@@ -208,7 +208,7 @@ function App() {
           </div>
 
           {/* Bottom area */}
-          <div className="flex flex-col md:flex-row md:justify-end items-center mt-[-90px]">
+          <div className="flex flex-col md:flex-row md:justify-end items-center lg:mt-[-90px]">
             {/* Social links */}
             <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
               <li className="ml-4">
