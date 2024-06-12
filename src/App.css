@@ -1,3 +1,7 @@
+* {
+  overflow-x: hidden;
+}
+
 body {
   background-color:  rgb(21, 23, 25); /* This is black. You can adjust the color as needed. */
   background-color:  rgb(21, 23, 25);
