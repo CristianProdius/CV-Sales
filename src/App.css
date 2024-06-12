@@ -4,7 +4,6 @@ body {
   overflow-x: hidden; /* Hide horizontal scrollbar */
   width: 100%; /* Ensure body takes full width */
   box-sizing: border-box; /* Include padding and border in element's total width and height */
-
 }
 
 .big-title{
