@@ -1,0 +1,17 @@
+body {
+  background-color:  rgb(21, 23, 25) /* This is black. You can adjust the color as needed. */
+}
+
+.big-title{
+  font-size: 4.5em;
+  color: rgb(217, 227, 234);
+}
+
+.btn {
+  font-weight: 700 !important;
+}
+
+.bottom-name{
+  font-size: 2em;
+  color: rgb(217, 227, 234);
+}
